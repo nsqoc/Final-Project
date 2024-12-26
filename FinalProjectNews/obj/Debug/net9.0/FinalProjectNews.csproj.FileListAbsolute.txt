@@ -1,0 +1,14 @@
+C:\Users\nsqoc\OneDrive\Desktop\FinalProjectNews\obj\Debug\net9.0\FinalProjectNews.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsqoc\OneDrive\Desktop\FinalProjectNews\obj\Debug\net9.0\FinalProjectNews.AssemblyInfoInputs.cache
+C:\Users\nsqoc\OneDrive\Desktop\FinalProjectNews\obj\Debug\net9.0\FinalProjectNews.AssemblyInfo.cs
+C:\Users\nsqoc\OneDrive\Desktop\FinalProjectNews\obj\Debug\net9.0\FinalProjectNews.csproj.CoreCompileInputs.cache
+C:\Users\nsqoc\OneDrive\Desktop\FinalProjectNews\bin\Debug\net9.0\FinalProjectNews.exe
+C:\Users\nsqoc\OneDrive\Desktop\FinalProjectNews\bin\Debug\net9.0\FinalProjectNews.deps.json
+C:\Users\nsqoc\OneDrive\Desktop\FinalProjectNews\bin\Debug\net9.0\FinalProjectNews.runtimeconfig.json
+C:\Users\nsqoc\OneDrive\Desktop\FinalProjectNews\bin\Debug\net9.0\FinalProjectNews.dll
+C:\Users\nsqoc\OneDrive\Desktop\FinalProjectNews\bin\Debug\net9.0\FinalProjectNews.pdb
+C:\Users\nsqoc\OneDrive\Desktop\FinalProjectNews\obj\Debug\net9.0\FinalProjectNews.dll
+C:\Users\nsqoc\OneDrive\Desktop\FinalProjectNews\obj\Debug\net9.0\refint\FinalProjectNews.dll
+C:\Users\nsqoc\OneDrive\Desktop\FinalProjectNews\obj\Debug\net9.0\FinalProjectNews.pdb
+C:\Users\nsqoc\OneDrive\Desktop\FinalProjectNews\obj\Debug\net9.0\FinalProjectNews.genruntimeconfig.cache
+C:\Users\nsqoc\OneDrive\Desktop\FinalProjectNews\obj\Debug\net9.0\ref\FinalProjectNews.dll
